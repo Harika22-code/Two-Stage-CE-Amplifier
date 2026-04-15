@@ -1,1 +1,1 @@
-
+Two stage CE Aamplifier 
