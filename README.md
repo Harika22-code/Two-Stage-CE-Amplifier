@@ -35,6 +35,6 @@ This project focuses on overcoming typical BJT limitations like thermal runaway 
 
 ---
 
-## 📌 Notes
+##  Notes
 - Total Gain ≈ A1 × A2 = 15 × 30 = **450**
 - Suitable for audio-frequency amplification
