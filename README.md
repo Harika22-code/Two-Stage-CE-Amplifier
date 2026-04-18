@@ -1,4 +1,4 @@
-# 🔊 Two-Stage Common Emitter Amplifier
+# Two-Stage Common Emitter Amplifier
 
 This project features a two-stage Common Emitter (CE) amplifier designed for high-gain audio or signal processing applications. By cascading two CE stages, the circuit achieves significant voltage amplification while maintaining the characteristic 180° phase shift per stage (resulting in a 360° or 0° total shift).
 
@@ -6,7 +6,7 @@ This project focuses on overcoming typical BJT limitations like thermal runaway 
 
 ---
 
-## 🚀 Key Design Features
+##  Key Design Features
 
 - **Voltage Divider Biasing**  
   Ensures a stable Q-point, making the circuit independent of β variations between different transistors.
@@ -22,13 +22,13 @@ This project focuses on overcoming typical BJT limitations like thermal runaway 
 
 ---
 
-## 📊 Performance Specifications
+##  Performance Specifications
 
 | Parameter | Value |
 |----------|------|
-| Gain of I stage (A1) | 25 |
-| Gain of II stage (A2) | 40 |
-| Load resistance (RL) | 1kΩ |
+| Gain of I stage (A1) | 15 |
+| Gain of II stage (A2) | 30 |
+| Load resistance (RL) | 2.2kΩ |
 | Bandwidth (-3dB) | 20Hz – 20kHz |
 | Range of β | 100 – 200 |
 | Supply Voltage (Vcc) | 12V |
@@ -36,5 +36,5 @@ This project focuses on overcoming typical BJT limitations like thermal runaway 
 ---
 
 ## 📌 Notes
-- Total Gain ≈ A1 × A2 = 25 × 40 = **1000**
+- Total Gain ≈ A1 × A2 = 15 × 30 = **450**
 - Suitable for audio-frequency amplification
